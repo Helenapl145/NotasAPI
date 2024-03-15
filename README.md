@@ -18,7 +18,7 @@ Projeto feito usando uma API com dados de notas para serem renderizado em uma ap
 <br>
 
 <p align="center"> 
-    <img alt="Projeto Notas" src="./src/assets/preview.png">
+    <img alt="Projeto Notas" src="./src/assests/preview.png">
 
 </p>
 
@@ -36,7 +36,7 @@ Projeto feito usando uma API com dados de notas para serem renderizado em uma ap
 O projeto feito para a visualização de notas a partir de uma API com dados em JSON para serem utilizados <br/>
 como base para as funcionalidades de visualização e excluir notas, além de ter adição de notas.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://notas-5rnkg0yki-helenapl145.vercel.app/)
 
 Esse projeto está sob a licença MIT.
 
