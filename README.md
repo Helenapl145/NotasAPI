@@ -18,7 +18,7 @@ Projeto feito usando uma API com dados de notas para serem renderizado em uma ap
 <br>
 
 <p align="center"> 
-    <img alt="Projeto Notas" src="./src/preview.png">
+    <img alt="Projeto Notas" src="./src/assets/preview.png">
 
 </p>
 
